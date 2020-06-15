@@ -1,2 +1,2 @@
 # MaociFreak
-AutoHotkeyInterop (ring0?)
+AutoHotkey Interop - https://github.com/amazing-andrew/AutoHotkey.Interop
